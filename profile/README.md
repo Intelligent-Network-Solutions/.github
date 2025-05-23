@@ -3,6 +3,7 @@
 
 Our mission is to develop innovative, cloud-based, telemetry-driven solutions for modern networking challenges. The Intelligent Network Solutions team is dedicated to creating advanced technologies, including load balancers and telemetry data reconstruction systems, to address the needs of software-defined networks.
 
+If you would like to contribute please send me an email with your username/email to adam.roy@ndus.edu
 ---
 
 ## Projects
